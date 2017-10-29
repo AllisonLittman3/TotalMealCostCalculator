@@ -1,0 +1,7 @@
+c:\users\allis\documents\visual studio 2017\Projects\TotalMealCostCalculator\TotalMealCostCalculator\bin\Debug\TotalMealCostCalculator.exe.config
+c:\users\allis\documents\visual studio 2017\Projects\TotalMealCostCalculator\TotalMealCostCalculator\bin\Debug\TotalMealCostCalculator.exe
+c:\users\allis\documents\visual studio 2017\Projects\TotalMealCostCalculator\TotalMealCostCalculator\bin\Debug\TotalMealCostCalculator.pdb
+c:\users\allis\documents\visual studio 2017\Projects\TotalMealCostCalculator\TotalMealCostCalculator\obj\Debug\TotalMealCostCalculator.csprojResolveAssemblyReference.cache
+c:\users\allis\documents\visual studio 2017\Projects\TotalMealCostCalculator\TotalMealCostCalculator\obj\Debug\TotalMealCostCalculator.csproj.CoreCompileInputs.cache
+c:\users\allis\documents\visual studio 2017\Projects\TotalMealCostCalculator\TotalMealCostCalculator\obj\Debug\TotalMealCostCalculator.exe
+c:\users\allis\documents\visual studio 2017\Projects\TotalMealCostCalculator\TotalMealCostCalculator\obj\Debug\TotalMealCostCalculator.pdb
